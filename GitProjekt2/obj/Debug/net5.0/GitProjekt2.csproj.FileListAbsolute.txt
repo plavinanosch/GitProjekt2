@@ -1,0 +1,16 @@
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.exe
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.deps.json
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.runtimeconfig.json
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.runtimeconfig.dev.json
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.dll
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\ref\GitProjekt2.dll
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\bin\Debug\net5.0\GitProjekt2.pdb
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.csproj.AssemblyReference.cache
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.AssemblyInfoInputs.cache
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.AssemblyInfo.cs
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.dll
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\ref\GitProjekt2.dll
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.pdb
+C:\Users\plavina\source\repos\GitProjekt2\GitProjekt2\obj\Debug\net5.0\GitProjekt2.genruntimeconfig.cache
